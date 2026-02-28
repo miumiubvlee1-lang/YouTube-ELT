@@ -1,2 +1,4 @@
 virtualent/
 __pychache__/
+api_key.env
+logs/
